@@ -1,0 +1,6 @@
+org\example\BaseTests.class
+org\example\SeleniumTests.class
+pages\CheckOutPage.class
+pages\LoginPage.class
+pages\CartPage.class
+pages\HomePage.class
